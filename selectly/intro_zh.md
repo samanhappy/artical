@@ -8,7 +8,7 @@
 
 而我的需求很朴素：当我浏览英文网站时，遇到不懂的单词或句子，只想通过划词快速获得一个简洁、准确、不啰嗦的解释。其实这只需要一次 LLM 调用 + 一个合适的提示词就能解决。既然找不到现成的方案，那就自己“vibe coding”造一个吧。
 
-![Selectly 翻译功能演示](./assets/zh/translate.png)
+![Selectly 翻译功能](./assets/zh/translate.png)
 
 ## 过程
 
